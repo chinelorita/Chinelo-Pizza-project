@@ -1,0 +1,77 @@
+-------------------------------
+UCLan PIZZA
+-------------------------------
+MAIN MENU
+ 1. Add Credits (current credits = 0.00)
+ 2. Order Pizza
+ 0. Exit
+Please enter a number: 2
+
+ORDER PIZZA – Select Size [Current Balance = 10.00 credits]
+Please choose from the following options:
+ 1. 7 inch [3.0 credits]
+ 2. 9 inch [5.50 credits]
+ 3. 14 inch [7.25 credits]
+ 0. Return to Main Menu
+........................................
+Please enter a number : 2
+You have selected a 9 inch pizza.
+........................................
+
+You have selected a 9 inch pizza.
+Please choose from the following toppings:
+ 1. Ham [0.80 credits]
+ 2. Mushrooms [0.50 credits]
+ 3. Pepperoni [1.00 credits]
+ 4. Olives [0.30 credits]
+ 5. Pineapple [0.60 credits]
+ 6. Extra Cheese [1.20 credits]
+ 0. Return to Main Menu
+........................................
+Please enter a number : 3
+You have added pepperoni to your pizza. Your current price is: 6.50 credits.
+Would you like to add additional toppings?
+Please input 'Y' for yes and 'N' for no : N
+........................................
+
+........................................
+Please enter a number : 3
+You have added pepperoni to your pizza. Your current price is: 6.50 credits.
+Would you like to add additional toppings?
+Please input 'Y' for yes and 'N' for no : N
+........................................
+Available Balance: 10.00 credits
+Pizza price: 6.50 credits
+----------------------------------------
+Your new Balance = 3.50 credits
+----------------------------------------
+Would you like to order another pizza?
+Please input 'Y' for yes and 'N' for no : N
+Thank you, goodbye!
+
+........................................
+Please enter a number : 3
+You have added pepperoni to your pizza. Your current price is: 6.50 credits.
+Would you like to add additional toppings?
+Please input 'Y' for yes and 'N' for no : N
+........................................
+Available Balance: 0.00 credits
+Pizza price: 6.50 credits
+----------------------------------------
+You have insufficient credits available. You require "6.50" credits.
+Would you like to add more credits?
+Please enter 'Y' for yes and 'N' for no : Y
+.........................................
+Please enter how many credits you would like to add to your balance: 7.00
+----------------------------------------
+Your new Balance = 7.00 credits
+Would you like to continue processing your order?
+ Please enter 'Y' for yes and 'N' : Y
+........................................
+Available Balance: 7.00 credits
+Pizza price: 6.50 credits
+----------------------------------------
+Your new Balance = 0.50 credits
+----------------------------------------
+Thank you, goodbye!
+
